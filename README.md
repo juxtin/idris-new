@@ -1,6 +1,6 @@
 # idris-new.sh
 
-**Tested with Idris 0.11**
+**Tested with Idris 0.99**
 
 Create a new, slightly customized, mostly blank [Idris](http://idris-lang.org) project to use as a starting point for your application or library.
 
