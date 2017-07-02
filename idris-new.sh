@@ -84,7 +84,8 @@ cat <<-HERE > .dir-locals.el
 
 ((idris-mode
   (idris-load-packages .
-                       ("effects"))))
+                       () ; <- add dependencies to this list
+                       )))
 HERE
 
 echo "Creating a basic README.md file."
